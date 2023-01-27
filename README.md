@@ -47,7 +47,7 @@ pkg install git -y
 pkg install python -y 
 git clone https://github.com/TechieGamer1/Techie-Bomber.git
 cd Techie-Bomber
-./TBomb.sh
+./Techie-Bomber.sh
 ```
 
 #### For Debian-based GNU/Linux distributions
@@ -57,13 +57,5 @@ To use the application, type in the following commands in GNU/Linux terminal.
 sudo apt install git
 git clone https://github.com/Techie-Bomber/Techie-Bomber.git
 cd Techie-Bomber
-bash TBomb.sh
+bash Techie-Bomber.sh
 ```
-
-### TODO:
-
-- [x] Make Code More Readable and Extensible
-- [ ] Add More Mail Spam APIs
-- [ ] Add More SMS Spam APIs
-- [ ] Add More Call Spam APIs
-- [ ] Resolve threading issue in some devices
