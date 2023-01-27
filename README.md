@@ -24,7 +24,7 @@ Install `Techie-Bomber` package by running:
 pip3 install Techie-Bomber
 ```
 
-Run TBomb by just typing:
+Run Techie-Bomber by just typing:
 ```shell script
 Techie-Bomber
 ```
