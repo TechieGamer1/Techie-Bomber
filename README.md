@@ -49,6 +49,7 @@ pkg install git -y
 pkg install python -y 
 git clone https://github.com/TechieGamer1/Techie-Bomber.git
 cd Techie-Bomber
+pip install -r requirements.txt
 ./Techie-Bomber.sh
 ```
 
@@ -59,5 +60,6 @@ To use the application, type in the following commands in GNU/Linux terminal.
 sudo apt install git
 git clone https://github.com/Techie-Bomber/Techie-Bomber.git
 cd Techie-Bomber
+pip install -r requirements.txt
 bash Techie-Bomber.sh
 ```
